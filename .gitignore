@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Simulation output
+*.vvp
+*.vcd
+*.fst
+*.out
+
+# Vivado project/run artifacts
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+.Xil/
+
+# Python
+__pycache__/
+*.pyc
